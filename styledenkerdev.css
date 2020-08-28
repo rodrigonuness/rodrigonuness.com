@@ -1,0 +1,72 @@
+body{
+    color: rgba(2, 245, 144, 0.964);
+}
+.divs{
+    background-color: rgba(2, 245, 144, 0.964);
+    margin-left: -0.60vw;
+    margin-right: -0.61vw;
+    margin-top: -0.6vw;
+    padding-bottom: 4vw;
+    color: rgba(0, 0, 0, 0.919);
+}
+#nome{
+    padding-bottom: 12vw;
+}
+#bottom{
+    width: 8em;
+    height: 2em;
+    padding: 0.2em;
+    padding-top: 0.3em;
+    border: rgba(0, 0, 0, 0.919) 4px solid;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.919);
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    text-decoration:none;
+}
+#bottom:hover{
+    background-color: rgba(0, 0, 0, 0.919);
+    color: rgba(2, 245, 144, 0.964);
+
+}
+#allbots{
+    list-style-type: none;
+}
+#divss{
+    background-color: rgba(2, 245, 144, 0.964);
+    margin-left: -0.60vw;
+    margin-right: -0.61vw;
+    padding-bottom: 4vw;
+    padding-top: 1em;
+    color: rgba(0, 0, 0, 0.919);
+    margin-bottom: 0.8em;
+    list-style-type: none;
+    text-decoration:none;
+}
+#divsss{
+    background-color: rgba(2, 245, 144, 0.964);
+    margin-left: -0.60vw;
+    margin-right: -0.61vw;
+    padding-bottom: 4vw;
+    padding-top: 1em;
+    color: rgba(0, 0, 0, 0.919);
+    margin-bottom: 0.8em;
+    list-style-type: none;
+    text-decoration:none;
+}
+#up{
+    width: 2em;
+    height: 2em;
+    padding: 0.01em;
+    border: rgba(0, 0, 0, 0.919) 4px solid;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.919);
+    font-size: 2.4em;
+    margin-bottom: 0.8em;
+    text-align: center;
+    margin-right: 0px;
+}
+#up:hover{
+    background-color: rgba(0, 0, 0, 0.919);
+    color: rgba(2, 245, 144, 0.964);
+}
