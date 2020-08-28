@@ -70,3 +70,22 @@ body{
     background-color: rgba(0, 0, 0, 0.919);
     color: rgba(2, 245, 144, 0.964);
 }
+@media (max-width: 19cm){
+    #up{
+        width: 2em;
+        height: 2em;
+        padding: 0.01em;
+        border: rgba(0, 0, 0, 0.919) 4px solid;
+        display: inline-block;
+        color: rgba(0, 0, 0, 0.919);
+        font-size: 2.4em;
+        margin-bottom: 0.8em;
+        text-align: center;
+        margin-right: 0px;
+        align-items: center;
+    }
+    #up:hover{
+    background-color: rgba(0, 0, 0, 0.919);
+    color: rgba(2, 245, 144, 0.964);
+}
+}
