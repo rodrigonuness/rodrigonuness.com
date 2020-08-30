@@ -1,4 +1,4 @@
-# http://rodrigonuness.github.io/index.html
+# http://rodrigonuness.com/index.html
 
 ### Hi, I'm Rodrigo Nunes!  💜
 
