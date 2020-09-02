@@ -70,6 +70,12 @@ body{
     background-color: rgba(0, 0, 0, 0.919);
     color: rgba(2, 245, 144, 0.964);
 }
+div#email{
+    color: rgba(0, 0, 0, 0.919);
+    font-size: 3vw;
+    padding-left: 2vw;
+    text-align: center;
+}
 @media (max-width: 19cm){
     #up{
         width: 2em;
@@ -87,5 +93,11 @@ body{
     #up:hover{
     background-color: rgba(0, 0, 0, 0.919);
     color: rgba(2, 245, 144, 0.964);
+}
+    div#email{
+    color: rgba(0, 0, 0, 0.919);
+    font-size: 4vw;
+    padding-left: 2vw;
+    text-align: center;
 }
 }
