@@ -11,10 +11,10 @@
   - NodeJS
       - ReactJS
           - Javascript
-              - React Native  
-          - html & css 
-      - ElectronJS 
-  - Python 
+          - React Native  
+       - html & css 
+   - ElectronJS 
+  
 
 ### I love ❤️
 - programing 💻
