@@ -8,12 +8,9 @@
 🇧🇷 Living in Recife, Brasil
 
 ### 🚀 My stacks 💙
-  - NodeJS
-      - ReactJS
-          - Javascript
-          - React Native  
-       - html & css 
-   - ElectronJS 
+
+- Javascript
+- Html & Css 
   
 
 ### I love ❤️
